@@ -1,0 +1,6 @@
+{
+  "version":"1.0.0",
+  "datastreams":[
+      {"id":"sensor1", "current_value":"21.47"}
+  ] 
+}
